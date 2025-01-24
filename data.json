@@ -1,6 +1,6 @@
 
-{
-  "Accounts":[
+
+[
   {
     "id": 1,
     "name": "Michael Jackson",
@@ -259,4 +259,3 @@
     }
   }
 ]
-}
